@@ -28,8 +28,7 @@ This project combines embedded systems, IoT, networking, and real-world reliabil
 
 - ESP32 DevKit V1
 - 1-Channel Relay Module
-- Nokia 5V Power Adapter
-- Breadboard
+- 5V Power Adapter
 - Jumper Wires
 - AC Room Light (230V)
 
