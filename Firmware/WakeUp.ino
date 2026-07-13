@@ -4,9 +4,9 @@
  * BLYNK: Template "Wake Up"
  */
 
-#define BLYNK_TEMPLATE_ID "TMPL3X8vWYW7w"
-#define BLYNK_TEMPLATE_NAME "Wake Up"
-#define BLYNK_AUTH_TOKEN "RKao3I1FFzLz9pfiHn_vxnEUiCnkfKn5"
+#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE"
+#define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR_TOKEN"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -29,8 +29,8 @@ const uint32_t LOOP_DELAY_MS = 1000;
 const char* NTP_SERVER = "time.google.com";
 
 // --- WiFi Credentials ---
-char ssid[] = "Airtel_Lovshik";
-char pass[] = "Halindia*1";
+char ssid[] = "YOUR_SSID";
+char pass[] = "PASSWORD";
 
 // --- Global Variables ---
 int wakeHour = 6;
